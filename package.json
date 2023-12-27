@@ -15,5 +15,15 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.5.2",
     "vite": "^5.0.8"
-  }
+  },
+  "keywords": [
+    "javascript",
+    "wasm",
+    "barcode",
+    "zint",
+    "webassembly",
+    "vue",
+    "vite"
+  ]
+
 }
